@@ -14,7 +14,7 @@ body {
     background: black;
     color: white;
 
-    margin-top: 250px;
+    margin-top: 15.625rem;
 
     display: flex;
     flex-direction: column;
@@ -22,7 +22,7 @@ body {
 }
 
 .container {
-    padding: 10px;
+    padding: 0.625rem;
     border: solid;
     border-image-slice: 1;
     border-width: 7px;
@@ -32,7 +32,7 @@ body {
     flex-direction: column;
     align-items: center;
 
-    max-width: 450px;
+    max-width: 28.125rem;
 }
 
 
@@ -42,8 +42,8 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 40px;
-    padding-bottom: 5px;
+    margin-bottom: 2.5rem;
+    padding-bottom: 0.313rem;
 
     border-bottom: 2px solid ;
     border-image-slice: 1;
@@ -52,29 +52,29 @@ main {
 }
 
 main h1 {
-    font-size: 45px;
+    font-size: 2.813rem;
 }
 
 h3 {
-    font-size: 25px;  
+    font-size: 1.563rem;  
 }
 
 main p {
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 
 
 footer {
     display: flex;
-    gap: 20px;
+    gap: 1.25rem;
 
     display: flex;
     justify-content: space-between;
-    padding-inline: 15px;
+    padding-inline: 0.938rem;
 }
 
 footer h3 {
-    font-size: 15px;
+    font-size: 0.938rem;
     font-weight: 400;
 }
 
@@ -83,7 +83,7 @@ footer h3 {
     flex-direction: column;
     align-items: center;
 
-    gap: 10px;
+    gap: 0.625rem;
 }
 
 .instagram {
@@ -91,7 +91,7 @@ footer h3 {
     color: white;
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 0.625rem;
 }
 
 .whatsapp {
@@ -99,14 +99,14 @@ footer h3 {
     text-decoration: none;
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 0.625rem;
 }
 
 .whatsapp img {
-    height: 25px;
+    height: 1.563rem;
    
 }
 
 .instagram img {
-    height: 25px;
+    height: 1.563rem;
 }
